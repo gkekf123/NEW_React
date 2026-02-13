@@ -14,3 +14,7 @@ h1.line {
     /* 텍스트 세로 중앙 정렬을 위해 line-height 추가 */
     line-height: 100px; 
 }
+
+.inp {
+    width: 500px;
+}

@@ -15,7 +15,7 @@ const SecondApp = () => {
 
   return (
     <div className='main-box'>
-        <h1 className=''>SecondApp</h1>
+        <h1 className='line'>SecondApp</h1>
 
         <h3 style={{color: 'red'}}>{message}</h3>
 
